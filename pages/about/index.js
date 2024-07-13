@@ -41,15 +41,15 @@ const aboutData = [
     ],
   },
   {
-    title: 'awards',
+    title: 'Internship',
     info: [
       {
-        title: 'Webby Awards - Honoree',
-        stage: '2011 - 2012',
+        title: 'Gradly Summer Internship ',
+        stage: 'May 2024 - June 2024',
       },
       {
-        title: 'Adobe Design Achievement Awards - Finalist',
-        stage: '2009 - 2010',
+        title: 'Summer Training Program by Science Tech Institute ',
+        stage: 'June 2024 - July 2024',
       },
     ],
   },
@@ -57,16 +57,16 @@ const aboutData = [
     title: 'experience',
     info: [
       {
-        title: 'UX/UI Designer - XYZ Company',
-        stage: '2012 - 2023',
+        title: 'AI and Data Science Internship - Ybi Foundation',
+        stage: '2024',
       },
       {
-        title: 'Web Developer - ABC Agency',
-        stage: '2010 - 2012',
+        title: 'Python Programming Internship- Ybi foundation',
+        stage: '2024',
       },
       {
-        title: 'Intern - DEF Corporation',
-        stage: '2008 - 2010',
+        title: 'Intern - Intern-Niti',
+        stage: '2024',
       },
     ],
   },
@@ -74,16 +74,16 @@ const aboutData = [
     title: 'credentials',
     info: [
       {
-        title: 'Web Development - ABC University, LA, CA',
-        stage: '2011',
+        title: '10th - St.francis mission School ',
+        stage: '2020',
       },
       {
-        title: 'Computer Science Diploma - AV Technical Institute',
-        stage: '2009',
+        title: '12th - St.francis mission School ',
+        stage: '2022',
       },
       {
-        title: 'Certified Graphic Designer - ABC Institute, Los Angeles, CA',
-        stage: '2006',
+        title: 'Bachelor's of Computer Applications ',
+        stage: '2025',
       },
     ],
   },
